@@ -1,7 +1,9 @@
 float cx, cy, rad; 
-int shift = 0;
-int shift_every = 12;
-int update_every = 25;
+float shift = 0;
+int shift_every = 1;
+int update_every = 18;
+boolean auto_play = true;
+boolean is_saving = false;
 
 W w = new W();
 
@@ -59,7 +61,7 @@ class C {
    }
    
    void evo() {
-       ang = TWO_PI * float(rank + shift) / (w.cs.length + 1) - HALF_PI;
+       ang = TWO_PI * (float(rank) + shift) / (w.cs.length + 1) - HALF_PI;
        x = cx + rad * cos(ang); y = cy + rad * sin(ang); 
        sx = adj(sx, x); sy = adj(sy, y); sang = adj(sang, ang);
    }
@@ -99,24 +101,35 @@ void loadJson() {
    }
 }
 
+void play() {
+      ie++; if (ie < es.length) { w.cyclic_cut_insert(es[ie]); }
+}
+
 
 
 void draw() {
   background(0);
   w.draw();
   w.evo();
-//  if ((frameCount + 1) % shift_every == 0) { shift--; }
+  if (auto_play && (frameCount + 1) % update_every == 0) play();
+  if (auto_play && (frameCount + 1) % shift_every == 0) { shift -= 0.03; }
+  if (is_saving) {
+     saveFrame(hour() + "_" + minute()+ "####.png"); 
+  }
 //  if ((frameCount + 1) % update_every == 0) { ie++; if (ie < es.length) { w.cyclic_cut_insert(es[ie]); } }
 }
 
-void keyPressed() {
+void keyPressed(KeyEvent keyEvent) {
   if (keyCode == 32) {
-    ie++; if (ie < es.length) { w.cyclic_cut_insert(es[ie]); }
+    play();
   }
   if (keyCode == LEFT) {
      shift--;
   }
   if (keyCode == RIGHT) {
     shift++;
+  }
+  if (keyCode == 'S' && (keyEvent.isControlDown() || keyEvent.isMetaDown())) {
+    is_saving ^= true;
   }
 }
