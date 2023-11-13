@@ -1,0 +1,505 @@
+{
+    "init_string": "il risotto al tartufo \u00e8 buono",
+    "edits": [
+        {
+            "loc": 26,
+            "cut_len": 3,
+            "token": "on"
+        },
+        {
+            "loc": 23,
+            "cut_len": 3,
+            "token": " bu"
+        },
+        {
+            "loc": 23,
+            "cut_len": 1,
+            "token": "\ufffd"
+        },
+        {
+            "loc": 21,
+            "cut_len": 2,
+            "token": " \ufffd"
+        },
+        {
+            "loc": 20,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 18,
+            "cut_len": 2,
+            "token": "uf"
+        },
+        {
+            "loc": 13,
+            "cut_len": 5,
+            "token": " tart"
+        },
+        {
+            "loc": 10,
+            "cut_len": 3,
+            "token": ","
+        },
+        {
+            "loc": 6,
+            "cut_len": 4,
+            "token": "o"
+        },
+        {
+            "loc": 2,
+            "cut_len": 4,
+            "token": "avor"
+        },
+        {
+            "loc": 0,
+            "cut_len": 2,
+            "token": " l"
+        },
+        {
+            "loc": 21,
+            "cut_len": 2,
+            "token": "on"
+        },
+        {
+            "loc": 18,
+            "cut_len": 3,
+            "token": " bu"
+        },
+        {
+            "loc": 18,
+            "cut_len": 1,
+            "token": "\ufffd"
+        },
+        {
+            "loc": 16,
+            "cut_len": 2,
+            "token": " \ufffd"
+        },
+        {
+            "loc": 15,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 13,
+            "cut_len": 2,
+            "token": "uf"
+        },
+        {
+            "loc": 8,
+            "cut_len": 5,
+            "token": " st"
+        },
+        {
+            "loc": 7,
+            "cut_len": 1,
+            "token": ","
+        },
+        {
+            "loc": 6,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 2,
+            "cut_len": 4,
+            "token": "avor"
+        },
+        {
+            "loc": 0,
+            "cut_len": 2,
+            "token": " l"
+        },
+        {
+            "loc": 19,
+            "cut_len": 2,
+            "token": "io"
+        },
+        {
+            "loc": 16,
+            "cut_len": 3,
+            "token": " m"
+        },
+        {
+            "loc": 16,
+            "cut_len": 1,
+            "token": "\ufffd"
+        },
+        {
+            "loc": 14,
+            "cut_len": 2,
+            "token": " \ufffd"
+        },
+        {
+            "loc": 13,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 11,
+            "cut_len": 2,
+            "token": "iam"
+        },
+        {
+            "loc": 8,
+            "cut_len": 3,
+            "token": " s"
+        },
+        {
+            "loc": 7,
+            "cut_len": 1,
+            "token": ","
+        },
+        {
+            "loc": 6,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 2,
+            "cut_len": 4,
+            "token": "'"
+        },
+        {
+            "loc": 0,
+            "cut_len": 2,
+            "token": " do"
+        },
+        {
+            "loc": 16,
+            "cut_len": 2,
+            "token": "io"
+        },
+        {
+            "loc": 14,
+            "cut_len": 2,
+            "token": " d"
+        },
+        {
+            "loc": 14,
+            "cut_len": 1,
+            "token": "\ufffd"
+        },
+        {
+            "loc": 12,
+            "cut_len": 2,
+            "token": " \ufffd"
+        },
+        {
+            "loc": 11,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 8,
+            "cut_len": 3,
+            "token": "op"
+        },
+        {
+            "loc": 6,
+            "cut_len": 2,
+            "token": " sc"
+        },
+        {
+            "loc": 5,
+            "cut_len": 1,
+            "token": "io"
+        },
+        {
+            "loc": 4,
+            "cut_len": 1,
+            "token": " m"
+        },
+        {
+            "loc": 3,
+            "cut_len": 1,
+            "token": "vere"
+        },
+        {
+            "loc": 0,
+            "cut_len": 3,
+            "token": " a"
+        },
+        {
+            "loc": 20,
+            "cut_len": 2,
+            "token": "'"
+        },
+        {
+            "loc": 18,
+            "cut_len": 2,
+            "token": " d"
+        },
+        {
+            "loc": 18,
+            "cut_len": 1,
+            "token": "\ufffd"
+        },
+        {
+            "loc": 16,
+            "cut_len": 2,
+            "token": " \ufffd"
+        },
+        {
+            "loc": 15,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 13,
+            "cut_len": 2,
+            "token": "op"
+        },
+        {
+            "loc": 10,
+            "cut_len": 3,
+            "token": " pad"
+        },
+        {
+            "loc": 8,
+            "cut_len": 2,
+            "token": "io"
+        },
+        {
+            "loc": 6,
+            "cut_len": 2,
+            "token": " m"
+        },
+        {
+            "loc": 2,
+            "cut_len": 4,
+            "token": "i"
+        },
+        {
+            "loc": 0,
+            "cut_len": 2,
+            "token": "arg"
+        },
+        {
+            "loc": 19,
+            "cut_len": 1,
+            "token": "ol"
+        },
+        {
+            "loc": 17,
+            "cut_len": 2,
+            "token": " sc"
+        },
+        {
+            "loc": 17,
+            "cut_len": 1,
+            "token": "\ufffd"
+        },
+        {
+            "loc": 15,
+            "cut_len": 2,
+            "token": " \ufffd"
+        },
+        {
+            "loc": 14,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 12,
+            "cut_len": 2,
+            "token": "re"
+        },
+        {
+            "loc": 8,
+            "cut_len": 4,
+            "token": "."
+        },
+        {
+            "loc": 6,
+            "cut_len": 2,
+            "token": "ie"
+        },
+        {
+            "loc": 4,
+            "cut_len": 2,
+            "token": " a"
+        },
+        {
+            "loc": 3,
+            "cut_len": 1,
+            "token": "endo"
+        },
+        {
+            "loc": 0,
+            "cut_len": 3,
+            "token": "p"
+        },
+        {
+            "loc": 18,
+            "cut_len": 2,
+            "token": "ol"
+        },
+        {
+            "loc": 15,
+            "cut_len": 3,
+            "token": " sc"
+        },
+        {
+            "loc": 15,
+            "cut_len": 1,
+            "token": "\ufffd"
+        },
+        {
+            "loc": 13,
+            "cut_len": 2,
+            "token": " \ufffd"
+        },
+        {
+            "loc": 12,
+            "cut_len": 1,
+            "token": ","
+        },
+        {
+            "loc": 10,
+            "cut_len": 2,
+            "token": "\n"
+        },
+        {
+            "loc": 9,
+            "cut_len": 1,
+            "token": " la"
+        },
+        {
+            "loc": 7,
+            "cut_len": 2,
+            "token": "i"
+        },
+        {
+            "loc": 5,
+            "cut_len": 2,
+            "token": " le"
+        },
+        {
+            "loc": 1,
+            "cut_len": 4,
+            "token": "ita"
+        },
+        {
+            "loc": 0,
+            "cut_len": 1,
+            "token": "p"
+        },
+        {
+            "loc": 18,
+            "cut_len": 2,
+            "token": "ol"
+        },
+        {
+            "loc": 15,
+            "cut_len": 3,
+            "token": " sc"
+        },
+        {
+            "loc": 15,
+            "cut_len": 1,
+            "token": "\ufffd"
+        },
+        {
+            "loc": 13,
+            "cut_len": 2,
+            "token": " \ufffd"
+        },
+        {
+            "loc": 12,
+            "cut_len": 1,
+            "token": "e"
+        },
+        {
+            "loc": 11,
+            "cut_len": 1,
+            "token": " part"
+        },
+        {
+            "loc": 8,
+            "cut_len": 3,
+            "token": " e"
+        },
+        {
+            "loc": 7,
+            "cut_len": 1,
+            "token": "i"
+        },
+        {
+            "loc": 4,
+            "cut_len": 3,
+            "token": " ne"
+        },
+        {
+            "loc": 1,
+            "cut_len": 3,
+            "token": "ita"
+        },
+        {
+            "loc": 0,
+            "cut_len": 1,
+            "token": "p"
+        },
+        {
+            "loc": 21,
+            "cut_len": 2,
+            "token": "ol"
+        },
+        {
+            "loc": 18,
+            "cut_len": 3,
+            "token": " sc"
+        },
+        {
+            "loc": 18,
+            "cut_len": 1,
+            "token": "\ufffd"
+        },
+        {
+            "loc": 16,
+            "cut_len": 2,
+            "token": " \ufffd"
+        },
+        {
+            "loc": 15,
+            "cut_len": 1,
+            "token": "e"
+        },
+        {
+            "loc": 10,
+            "cut_len": 5,
+            "token": " present"
+        },
+        {
+            "loc": 8,
+            "cut_len": 2,
+            "token": " c"
+        },
+        {
+            "loc": 7,
+            "cut_len": 1,
+            "token": "lla"
+        },
+        {
+            "loc": 4,
+            "cut_len": 3,
+            "token": " ne"
+        },
+        {
+            "loc": 1,
+            "cut_len": 3,
+            "token": "ita"
+        },
+        {
+            "loc": 0,
+            "cut_len": 1,
+            "token": "p"
+        },
+        {
+            "loc": 26,
+            "cut_len": 2,
+            "token": "ol"
+        }
+    ]
+}
