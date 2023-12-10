@@ -1,7 +1,7 @@
 float cx, cy, rad; 
 float shift = 0;
 int shift_every = 1;
-int update_every = 18;
+int update_every =40;
 boolean auto_play = true;
 boolean is_saving = false;
 

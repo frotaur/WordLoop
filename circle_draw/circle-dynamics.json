@@ -1,505 +1,1505 @@
 {
-    "init_string": "il risotto al tartufo \u00e8 buono",
+    "init_string": "just wanna see if this works, man !",
     "edits": [
         {
-            "loc": 26,
-            "cut_len": 3,
-            "token": "on"
-        },
-        {
-            "loc": 23,
-            "cut_len": 3,
-            "token": " bu"
-        },
-        {
-            "loc": 23,
+            "loc": 33,
             "cut_len": 1,
-            "token": "\ufffd"
+            "token": "\n"
         },
         {
-            "loc": 21,
-            "cut_len": 2,
-            "token": " \ufffd"
-        },
-        {
-            "loc": 20,
-            "cut_len": 1,
-            "token": "o"
-        },
-        {
-            "loc": 18,
-            "cut_len": 2,
-            "token": "uf"
-        },
-        {
-            "loc": 13,
-            "cut_len": 5,
-            "token": " tart"
-        },
-        {
-            "loc": 10,
-            "cut_len": 3,
-            "token": ","
-        },
-        {
-            "loc": 6,
+            "loc": 29,
             "cut_len": 4,
-            "token": "o"
+            "token": "\n"
         },
         {
-            "loc": 2,
-            "cut_len": 4,
-            "token": "avor"
-        },
-        {
-            "loc": 0,
-            "cut_len": 2,
-            "token": " l"
-        },
-        {
-            "loc": 21,
-            "cut_len": 2,
-            "token": "on"
-        },
-        {
-            "loc": 18,
-            "cut_len": 3,
-            "token": " bu"
-        },
-        {
-            "loc": 18,
+            "loc": 28,
             "cut_len": 1,
-            "token": "\ufffd"
-        },
-        {
-            "loc": 16,
-            "cut_len": 2,
-            "token": " \ufffd"
-        },
-        {
-            "loc": 15,
-            "cut_len": 1,
-            "token": "o"
-        },
-        {
-            "loc": 13,
-            "cut_len": 2,
-            "token": "uf"
-        },
-        {
-            "loc": 8,
-            "cut_len": 5,
-            "token": " st"
-        },
-        {
-            "loc": 7,
-            "cut_len": 1,
-            "token": ","
-        },
-        {
-            "loc": 6,
-            "cut_len": 1,
-            "token": "o"
-        },
-        {
-            "loc": 2,
-            "cut_len": 4,
-            "token": "avor"
-        },
-        {
-            "loc": 0,
-            "cut_len": 2,
-            "token": " l"
-        },
-        {
-            "loc": 19,
-            "cut_len": 2,
-            "token": "io"
-        },
-        {
-            "loc": 16,
-            "cut_len": 3,
-            "token": " m"
-        },
-        {
-            "loc": 16,
-            "cut_len": 1,
-            "token": "\ufffd"
-        },
-        {
-            "loc": 14,
-            "cut_len": 2,
-            "token": " \ufffd"
-        },
-        {
-            "loc": 13,
-            "cut_len": 1,
-            "token": "o"
-        },
-        {
-            "loc": 11,
-            "cut_len": 2,
-            "token": "iam"
-        },
-        {
-            "loc": 8,
-            "cut_len": 3,
-            "token": " s"
-        },
-        {
-            "loc": 7,
-            "cut_len": 1,
-            "token": ","
-        },
-        {
-            "loc": 6,
-            "cut_len": 1,
-            "token": "o"
-        },
-        {
-            "loc": 2,
-            "cut_len": 4,
-            "token": "'"
-        },
-        {
-            "loc": 0,
-            "cut_len": 2,
-            "token": " do"
-        },
-        {
-            "loc": 16,
-            "cut_len": 2,
-            "token": "io"
-        },
-        {
-            "loc": 14,
-            "cut_len": 2,
-            "token": " d"
-        },
-        {
-            "loc": 14,
-            "cut_len": 1,
-            "token": "\ufffd"
-        },
-        {
-            "loc": 12,
-            "cut_len": 2,
-            "token": " \ufffd"
-        },
-        {
-            "loc": 11,
-            "cut_len": 1,
-            "token": "o"
-        },
-        {
-            "loc": 8,
-            "cut_len": 3,
-            "token": "op"
-        },
-        {
-            "loc": 6,
-            "cut_len": 2,
-            "token": " sc"
-        },
-        {
-            "loc": 5,
-            "cut_len": 1,
-            "token": "io"
-        },
-        {
-            "loc": 4,
-            "cut_len": 1,
-            "token": " m"
-        },
-        {
-            "loc": 3,
-            "cut_len": 1,
-            "token": "vere"
-        },
-        {
-            "loc": 0,
-            "cut_len": 3,
-            "token": " a"
-        },
-        {
-            "loc": 20,
-            "cut_len": 2,
-            "token": "'"
-        },
-        {
-            "loc": 18,
-            "cut_len": 2,
-            "token": " d"
-        },
-        {
-            "loc": 18,
-            "cut_len": 1,
-            "token": "\ufffd"
-        },
-        {
-            "loc": 16,
-            "cut_len": 2,
-            "token": " \ufffd"
-        },
-        {
-            "loc": 15,
-            "cut_len": 1,
-            "token": "o"
-        },
-        {
-            "loc": 13,
-            "cut_len": 2,
-            "token": "op"
-        },
-        {
-            "loc": 10,
-            "cut_len": 3,
-            "token": " pad"
-        },
-        {
-            "loc": 8,
-            "cut_len": 2,
-            "token": "io"
-        },
-        {
-            "loc": 6,
-            "cut_len": 2,
-            "token": " m"
-        },
-        {
-            "loc": 2,
-            "cut_len": 4,
-            "token": "i"
-        },
-        {
-            "loc": 0,
-            "cut_len": 2,
-            "token": "arg"
-        },
-        {
-            "loc": 19,
-            "cut_len": 1,
-            "token": "ol"
-        },
-        {
-            "loc": 17,
-            "cut_len": 2,
-            "token": " sc"
-        },
-        {
-            "loc": 17,
-            "cut_len": 1,
-            "token": "\ufffd"
-        },
-        {
-            "loc": 15,
-            "cut_len": 2,
-            "token": " \ufffd"
-        },
-        {
-            "loc": 14,
-            "cut_len": 1,
-            "token": "o"
-        },
-        {
-            "loc": 12,
-            "cut_len": 2,
-            "token": "re"
-        },
-        {
-            "loc": 8,
-            "cut_len": 4,
             "token": "."
         },
         {
-            "loc": 6,
-            "cut_len": 2,
-            "token": "ie"
+            "loc": 22,
+            "cut_len": 6,
+            "token": " thing"
+        },
+        {
+            "loc": 17,
+            "cut_len": 5,
+            "token": " this"
+        },
+        {
+            "loc": 14,
+            "cut_len": 3,
+            "token": " if"
+        },
+        {
+            "loc": 10,
+            "cut_len": 4,
+            "token": " know"
         },
         {
             "loc": 4,
+            "cut_len": 6,
+            "token": " a"
+        },
+        {
+            "loc": 0,
+            "cut_len": 4,
+            "token": "I"
+        },
+        {
+            "loc": 24,
+            "cut_len": 1,
+            "token": "\n"
+        },
+        {
+            "loc": 23,
+            "cut_len": 1,
+            "token": " I"
+        },
+        {
+            "loc": 22,
+            "cut_len": 1,
+            "token": " have"
+        },
+        {
+            "loc": 16,
+            "cut_len": 6,
+            "token": " is"
+        },
+        {
+            "loc": 11,
+            "cut_len": 5,
+            "token": " I"
+        },
+        {
+            "loc": 8,
+            "cut_len": 3,
+            "token": " that"
+        },
+        {
+            "loc": 3,
+            "cut_len": 5,
+            "token": " year"
+        },
+        {
+            "loc": 1,
+            "cut_len": 2,
+            "token": "\u2019"
+        },
+        {
+            "loc": 0,
+            "cut_len": 1,
+            "token": "in"
+        },
+        {
+            "loc": 25,
+            "cut_len": 1,
+            "token": " been"
+        },
+        {
+            "loc": 23,
             "cut_len": 2,
             "token": " a"
         },
         {
-            "loc": 3,
-            "cut_len": 1,
-            "token": "endo"
-        },
-        {
-            "loc": 0,
-            "cut_len": 3,
-            "token": "p"
-        },
-        {
             "loc": 18,
-            "cut_len": 2,
-            "token": "ol"
+            "cut_len": 5,
+            "token": " not"
         },
         {
             "loc": 15,
             "cut_len": 3,
-            "token": " sc"
-        },
-        {
-            "loc": 15,
-            "cut_len": 1,
-            "token": "\ufffd"
+            "token": "\u2019"
         },
         {
             "loc": 13,
             "cut_len": 2,
-            "token": " \ufffd"
+            "token": "\u2019"
         },
         {
-            "loc": 12,
+            "loc": 8,
+            "cut_len": 5,
+            "token": " \u2019"
+        },
+        {
+            "loc": 3,
+            "cut_len": 5,
+            "token": " out"
+        },
+        {
+            "loc": 2,
             "cut_len": 1,
-            "token": ","
+            "token": "\u2019"
+        },
+        {
+            "loc": 0,
+            "cut_len": 2,
+            "token": " \u2019"
+        },
+        {
+            "loc": 17,
+            "cut_len": 5,
+            "token": " \u2018"
+        },
+        {
+            "loc": 15,
+            "cut_len": 2,
+            "token": " \u2018"
+        },
+        {
+            "loc": 11,
+            "cut_len": 4,
+            "token": " one"
         },
         {
             "loc": 10,
-            "cut_len": 2,
-            "token": "\n"
+            "cut_len": 1,
+            "token": " that"
         },
         {
             "loc": 9,
             "cut_len": 1,
-            "token": " la"
+            "token": "\u2019"
         },
         {
             "loc": 7,
             "cut_len": 2,
-            "token": "i"
+            "token": " of"
         },
         {
-            "loc": 5,
-            "cut_len": 2,
-            "token": " le"
-        },
-        {
-            "loc": 1,
+            "loc": 3,
             "cut_len": 4,
-            "token": "ita"
+            "token": " "
+        },
+        {
+            "loc": 2,
+            "cut_len": 1,
+            "token": "\u2019"
         },
         {
             "loc": 0,
-            "cut_len": 1,
-            "token": "p"
+            "cut_len": 2,
+            "token": "\n"
         },
         {
             "loc": 18,
             "cut_len": 2,
-            "token": "ol"
-        },
-        {
-            "loc": 15,
-            "cut_len": 3,
-            "token": " sc"
-        },
-        {
-            "loc": 15,
-            "cut_len": 1,
-            "token": "\ufffd"
-        },
-        {
-            "loc": 13,
-            "cut_len": 2,
-            "token": " \ufffd"
-        },
-        {
-            "loc": 12,
-            "cut_len": 1,
-            "token": "e"
-        },
-        {
-            "loc": 11,
-            "cut_len": 1,
-            "token": " part"
-        },
-        {
-            "loc": 8,
-            "cut_len": 3,
-            "token": " e"
-        },
-        {
-            "loc": 7,
-            "cut_len": 1,
-            "token": "i"
-        },
-        {
-            "loc": 4,
-            "cut_len": 3,
-            "token": " ne"
-        },
-        {
-            "loc": 1,
-            "cut_len": 3,
-            "token": "ita"
-        },
-        {
-            "loc": 0,
-            "cut_len": 1,
-            "token": "p"
-        },
-        {
-            "loc": 21,
-            "cut_len": 2,
-            "token": "ol"
-        },
-        {
-            "loc": 18,
-            "cut_len": 3,
-            "token": " sc"
-        },
-        {
-            "loc": 18,
-            "cut_len": 1,
-            "token": "\ufffd"
+            "token": ","
         },
         {
             "loc": 16,
             "cut_len": 2,
-            "token": " \ufffd"
+            "token": " is"
         },
         {
-            "loc": 15,
-            "cut_len": 1,
-            "token": "e"
-        },
-        {
-            "loc": 10,
-            "cut_len": 5,
-            "token": " present"
-        },
-        {
-            "loc": 8,
-            "cut_len": 2,
-            "token": " c"
+            "loc": 12,
+            "cut_len": 4,
+            "token": ","
         },
         {
             "loc": 7,
-            "cut_len": 1,
-            "token": "lla"
+            "cut_len": 5,
+            "token": " is"
         },
         {
-            "loc": 4,
+            "loc": 6,
+            "cut_len": 1,
+            "token": " which"
+        },
+        {
+            "loc": 3,
             "cut_len": 3,
-            "token": " ne"
+            "token": "o"
+        },
+        {
+            "loc": 2,
+            "cut_len": 1,
+            "token": "t"
         },
         {
             "loc": 1,
-            "cut_len": 3,
-            "token": "ita"
+            "cut_len": 1,
+            "token": "\n"
         },
         {
             "loc": 0,
             "cut_len": 1,
-            "token": "p"
+            "token": " and"
+        },
+        {
+            "loc": 20,
+            "cut_len": 1,
+            "token": ","
+        },
+        {
+            "loc": 17,
+            "cut_len": 3,
+            "token": " of"
+        },
+        {
+            "loc": 16,
+            "cut_len": 1,
+            "token": " not"
+        },
+        {
+            "loc": 13,
+            "cut_len": 3,
+            "token": ","
+        },
+        {
+            "loc": 7,
+            "cut_len": 6,
+            "token": " be"
+        },
+        {
+            "loc": 6,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 5,
+            "cut_len": 1,
+            "token": "t"
+        },
+        {
+            "loc": 4,
+            "cut_len": 1,
+            "token": " "
+        },
+        {
+            "loc": 0,
+            "cut_len": 4,
+            "token": " but"
+        },
+        {
+            "loc": 18,
+            "cut_len": 1,
+            "token": " this"
+        },
+        {
+            "loc": 15,
+            "cut_len": 3,
+            "token": " only"
+        },
+        {
+            "loc": 11,
+            "cut_len": 4,
+            "token": " in"
+        },
+        {
+            "loc": 10,
+            "cut_len": 1,
+            "token": " sure"
+        },
+        {
+            "loc": 7,
+            "cut_len": 3,
+            "token": " be"
+        },
+        {
+            "loc": 6,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 5,
+            "cut_len": 1,
+            "token": "t"
+        },
+        {
+            "loc": 4,
+            "cut_len": 1,
+            "token": " "
+        },
+        {
+            "loc": 0,
+            "cut_len": 4,
+            "token": " way"
+        },
+        {
+            "loc": 23,
+            "cut_len": 5,
+            "token": " one"
+        },
+        {
+            "loc": 18,
+            "cut_len": 5,
+            "token": " this"
+        },
+        {
+            "loc": 15,
+            "cut_len": 3,
+            "token": ","
+        },
+        {
+            "loc": 10,
+            "cut_len": 5,
+            "token": " is"
+        },
+        {
+            "loc": 7,
+            "cut_len": 3,
+            "token": " say"
+        },
+        {
+            "loc": 6,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 5,
+            "cut_len": 1,
+            "token": "t"
+        },
+        {
+            "loc": 4,
+            "cut_len": 1,
+            "token": " "
+        },
+        {
+            "loc": 0,
+            "cut_len": 4,
+            "token": " thing"
+        },
+        {
+            "loc": 22,
+            "cut_len": 4,
+            "token": " one"
+        },
+        {
+            "loc": 17,
+            "cut_len": 5,
+            "token": " however"
+        },
+        {
+            "loc": 16,
+            "cut_len": 1,
+            "token": ","
+        },
+        {
+            "loc": 13,
+            "cut_len": 3,
+            "token": " is"
+        },
+        {
+            "loc": 9,
+            "cut_len": 4,
+            "token": " really"
+        },
+        {
+            "loc": 8,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 7,
+            "cut_len": 1,
+            "token": "t"
+        },
+        {
+            "loc": 6,
+            "cut_len": 1,
+            "token": " "
+        },
+        {
+            "loc": 0,
+            "cut_len": 6,
+            "token": " has"
         },
         {
             "loc": 26,
+            "cut_len": 4,
+            "token": ","
+        },
+        {
+            "loc": 18,
+            "cut_len": 8,
+            "token": " you"
+        },
+        {
+            "loc": 17,
+            "cut_len": 1,
+            "token": " something"
+        },
+        {
+            "loc": 14,
+            "cut_len": 3,
+            "token": " be"
+        },
+        {
+            "loc": 7,
+            "cut_len": 7,
+            "token": " be"
+        },
+        {
+            "loc": 6,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 5,
+            "cut_len": 1,
+            "token": "t"
+        },
+        {
+            "loc": 4,
+            "cut_len": 1,
+            "token": " "
+        },
+        {
+            "loc": 0,
+            "cut_len": 4,
+            "token": " as"
+        },
+        {
+            "loc": 26,
+            "cut_len": 1,
+            "token": " are"
+        },
+        {
+            "loc": 22,
+            "cut_len": 4,
+            "token": " you"
+        },
+        {
+            "loc": 12,
+            "cut_len": 10,
+            "token": " as"
+        },
+        {
+            "loc": 9,
+            "cut_len": 3,
+            "token": " with"
+        },
+        {
+            "loc": 6,
+            "cut_len": 3,
+            "token": " do"
+        },
+        {
+            "loc": 5,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 4,
+            "cut_len": 1,
+            "token": "t"
+        },
+        {
+            "loc": 3,
+            "cut_len": 1,
+            "token": " "
+        },
+        {
+            "loc": 0,
+            "cut_len": 3,
+            "token": " what"
+        },
+        {
+            "loc": 23,
+            "cut_len": 4,
+            "token": " know"
+        },
+        {
+            "loc": 19,
+            "cut_len": 4,
+            "token": " you"
+        },
+        {
+            "loc": 16,
+            "cut_len": 3,
+            "token": " them"
+        },
+        {
+            "loc": 11,
+            "cut_len": 5,
+            "token": " with"
+        },
+        {
+            "loc": 8,
+            "cut_len": 3,
+            "token": " do"
+        },
+        {
+            "loc": 7,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 6,
+            "cut_len": 1,
+            "token": "t"
+        },
+        {
+            "loc": 5,
+            "cut_len": 1,
+            "token": " "
+        },
+        {
+            "loc": 0,
+            "cut_len": 5,
+            "token": " what"
+        },
+        {
+            "loc": 25,
+            "cut_len": 5,
+            "token": " know"
+        },
+        {
+            "loc": 21,
+            "cut_len": 4,
+            "token": ","
+        },
+        {
+            "loc": 16,
+            "cut_len": 5,
+            "token": " you"
+        },
+        {
+            "loc": 11,
+            "cut_len": 5,
+            "token": " and"
+        },
+        {
+            "loc": 8,
+            "cut_len": 3,
+            "token": " do"
+        },
+        {
+            "loc": 7,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 6,
+            "cut_len": 1,
+            "token": "t"
+        },
+        {
+            "loc": 5,
+            "cut_len": 1,
+            "token": " "
+        },
+        {
+            "loc": 0,
+            "cut_len": 5,
+            "token": " what"
+        },
+        {
+            "loc": 20,
+            "cut_len": 5,
+            "token": " and"
+        },
+        {
+            "loc": 19,
+            "cut_len": 1,
+            "token": " are"
+        },
+        {
+            "loc": 15,
+            "cut_len": 4,
+            "token": " you"
+        },
+        {
+            "loc": 11,
+            "cut_len": 4,
+            "token": " when"
+        },
+        {
+            "loc": 8,
+            "cut_len": 3,
+            "token": " do"
+        },
+        {
+            "loc": 7,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 6,
+            "cut_len": 1,
+            "token": "t"
+        },
+        {
+            "loc": 5,
+            "cut_len": 1,
+            "token": " "
+        },
+        {
+            "loc": 0,
+            "cut_len": 5,
+            "token": " remain"
+        },
+        {
+            "loc": 26,
+            "cut_len": 4,
+            "token": " not"
+        },
+        {
+            "loc": 22,
+            "cut_len": 4,
+            "token": " do"
+        },
+        {
+            "loc": 18,
+            "cut_len": 4,
+            "token": " you"
+        },
+        {
+            "loc": 13,
+            "cut_len": 5,
+            "token": " so"
+        },
+        {
+            "loc": 10,
+            "cut_len": 3,
+            "token": " keep"
+        },
+        {
+            "loc": 9,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 8,
+            "cut_len": 1,
+            "token": "t"
+        },
+        {
+            "loc": 7,
+            "cut_len": 1,
+            "token": " "
+        },
+        {
+            "loc": 0,
+            "cut_len": 7,
+            "token": " have"
+        },
+        {
+            "loc": 23,
+            "cut_len": 4,
+            "token": " not"
+        },
+        {
+            "loc": 20,
+            "cut_len": 3,
+            "token": " may"
+        },
+        {
+            "loc": 16,
+            "cut_len": 4,
+            "token": " many"
+        },
+        {
+            "loc": 13,
+            "cut_len": 3,
+            "token": " in"
+        },
+        {
+            "loc": 8,
+            "cut_len": 5,
+            "token": " take"
+        },
+        {
+            "loc": 7,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 6,
+            "cut_len": 1,
+            "token": "t"
+        },
+        {
+            "loc": 5,
+            "cut_len": 1,
+            "token": " "
+        },
+        {
+            "loc": 0,
+            "cut_len": 5,
+            "token": " have"
+        },
+        {
+            "loc": 25,
+            "cut_len": 4,
+            "token": " I"
+        },
+        {
+            "loc": 21,
+            "cut_len": 4,
+            "token": ","
+        },
+        {
+            "loc": 16,
+            "cut_len": 5,
+            "token": " these"
+        },
+        {
+            "loc": 13,
+            "cut_len": 3,
+            "token": " all"
+        },
+        {
+            "loc": 8,
+            "cut_len": 5,
+            "token": " say"
+        },
+        {
+            "loc": 7,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 6,
+            "cut_len": 1,
+            "token": "t"
+        },
+        {
+            "loc": 5,
+            "cut_len": 1,
+            "token": " "
+        },
+        {
+            "loc": 0,
+            "cut_len": 5,
+            "token": " have"
+        },
+        {
+            "loc": 23,
             "cut_len": 2,
-            "token": "ol"
+            "token": " I"
+        },
+        {
+            "loc": 22,
+            "cut_len": 1,
+            "token": ","
+        },
+        {
+            "loc": 16,
+            "cut_len": 6,
+            "token": " else"
+        },
+        {
+            "loc": 12,
+            "cut_len": 4,
+            "token": ","
+        },
+        {
+            "loc": 8,
+            "cut_len": 4,
+            "token": " wait"
+        },
+        {
+            "loc": 7,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 6,
+            "cut_len": 1,
+            "token": "t"
+        },
+        {
+            "loc": 5,
+            "cut_len": 1,
+            "token": " "
+        },
+        {
+            "loc": 0,
+            "cut_len": 5,
+            "token": " want"
+        },
+        {
+            "loc": 20,
+            "cut_len": 2,
+            "token": " you"
+        },
+        {
+            "loc": 19,
+            "cut_len": 1,
+            "token": ","
+        },
+        {
+            "loc": 14,
+            "cut_len": 5,
+            "token": " because"
+        },
+        {
+            "loc": 13,
+            "cut_len": 1,
+            "token": ","
+        },
+        {
+            "loc": 8,
+            "cut_len": 5,
+            "token": " be"
+        },
+        {
+            "loc": 7,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 6,
+            "cut_len": 1,
+            "token": "t"
+        },
+        {
+            "loc": 5,
+            "cut_len": 1,
+            "token": " "
+        },
+        {
+            "loc": 0,
+            "cut_len": 5,
+            "token": " know"
+        },
+        {
+            "loc": 21,
+            "cut_len": 4,
+            "token": " even"
+        },
+        {
+            "loc": 20,
+            "cut_len": 1,
+            "token": " I"
+        },
+        {
+            "loc": 12,
+            "cut_len": 8,
+            "token": " that"
+        },
+        {
+            "loc": 11,
+            "cut_len": 1,
+            "token": " in"
+        },
+        {
+            "loc": 8,
+            "cut_len": 3,
+            "token": " get"
+        },
+        {
+            "loc": 7,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 6,
+            "cut_len": 1,
+            "token": "t"
+        },
+        {
+            "loc": 5,
+            "cut_len": 1,
+            "token": " "
+        },
+        {
+            "loc": 0,
+            "cut_len": 5,
+            "token": " tried"
+        },
+        {
+            "loc": 23,
+            "cut_len": 5,
+            "token": " had"
+        },
+        {
+            "loc": 21,
+            "cut_len": 2,
+            "token": " car"
+        },
+        {
+            "loc": 16,
+            "cut_len": 5,
+            "token": " a"
+        },
+        {
+            "loc": 13,
+            "cut_len": 3,
+            "token": " in"
+        },
+        {
+            "loc": 9,
+            "cut_len": 4,
+            "token": " get"
+        },
+        {
+            "loc": 8,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 7,
+            "cut_len": 1,
+            "token": "t"
+        },
+        {
+            "loc": 6,
+            "cut_len": 1,
+            "token": " "
+        },
+        {
+            "loc": 0,
+            "cut_len": 6,
+            "token": " been"
+        },
+        {
+            "loc": 21,
+            "cut_len": 4,
+            "token": ","
+        },
+        {
+            "loc": 17,
+            "cut_len": 4,
+            "token": " car"
+        },
+        {
+            "loc": 15,
+            "cut_len": 2,
+            "token": " a"
+        },
+        {
+            "loc": 12,
+            "cut_len": 3,
+            "token": " in"
+        },
+        {
+            "loc": 8,
+            "cut_len": 4,
+            "token": " a"
+        },
+        {
+            "loc": 7,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 6,
+            "cut_len": 1,
+            "token": "t"
+        },
+        {
+            "loc": 5,
+            "cut_len": 1,
+            "token": " "
+        },
+        {
+            "loc": 0,
+            "cut_len": 5,
+            "token": " go"
+        },
+        {
+            "loc": 17,
+            "cut_len": 1,
+            "token": " and"
+        },
+        {
+            "loc": 13,
+            "cut_len": 4,
+            "token": " computer"
+        },
+        {
+            "loc": 11,
+            "cut_len": 2,
+            "token": " your"
+        },
+        {
+            "loc": 8,
+            "cut_len": 3,
+            "token": "\n"
+        },
+        {
+            "loc": 6,
+            "cut_len": 2,
+            "token": " your"
+        },
+        {
+            "loc": 5,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 4,
+            "cut_len": 1,
+            "token": "t"
+        },
+        {
+            "loc": 3,
+            "cut_len": 1,
+            "token": " "
+        },
+        {
+            "loc": 0,
+            "cut_len": 3,
+            "token": " back"
+        },
+        {
+            "loc": 28,
+            "cut_len": 4,
+            "token": " and"
+        },
+        {
+            "loc": 19,
+            "cut_len": 9,
+            "token": " church"
+        },
+        {
+            "loc": 14,
+            "cut_len": 5,
+            "token": "o"
+        },
+        {
+            "loc": 13,
+            "cut_len": 1,
+            "token": " home"
+        },
+        {
+            "loc": 8,
+            "cut_len": 5,
+            "token": " his"
+        },
+        {
+            "loc": 7,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 6,
+            "cut_len": 1,
+            "token": "t"
+        },
+        {
+            "loc": 5,
+            "cut_len": 1,
+            "token": " "
+        },
+        {
+            "loc": 0,
+            "cut_len": 5,
+            "token": " went"
+        },
+        {
+            "loc": 25,
+            "cut_len": 4,
+            "token": ","
+        },
+        {
+            "loc": 18,
+            "cut_len": 7,
+            "token": "n"
+        },
+        {
+            "loc": 17,
+            "cut_len": 1,
+            "token": "."
+        },
+        {
+            "loc": 12,
+            "cut_len": 5,
+            "token": " room"
+        },
+        {
+            "loc": 8,
+            "cut_len": 4,
+            "token": " sleep"
+        },
+        {
+            "loc": 7,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 6,
+            "cut_len": 1,
+            "token": "t"
+        },
+        {
+            "loc": 5,
+            "cut_len": 1,
+            "token": " "
+        },
+        {
+            "loc": 0,
+            "cut_len": 5,
+            "token": " you"
+        },
+        {
+            "loc": 20,
+            "cut_len": 1,
+            "token": "g"
+        },
+        {
+            "loc": 19,
+            "cut_len": 1,
+            "token": "\n"
+        },
+        {
+            "loc": 18,
+            "cut_len": 1,
+            "token": "."
+        },
+        {
+            "loc": 13,
+            "cut_len": 5,
+            "token": " with"
+        },
+        {
+            "loc": 7,
+            "cut_len": 6,
+            "token": " go"
+        },
+        {
+            "loc": 6,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 5,
+            "cut_len": 1,
+            "token": "t"
+        },
+        {
+            "loc": 4,
+            "cut_len": 1,
+            "token": " "
+        },
+        {
+            "loc": 0,
+            "cut_len": 4,
+            "token": ")"
+        },
+        {
+            "loc": 14,
+            "cut_len": 1,
+            "token": "\n"
+        },
+        {
+            "loc": 13,
+            "cut_len": 1,
+            "token": "."
+        },
+        {
+            "loc": 12,
+            "cut_len": 1,
+            "token": " your"
+        },
+        {
+            "loc": 7,
+            "cut_len": 5,
+            "token": " with"
+        },
+        {
+            "loc": 4,
+            "cut_len": 3,
+            "token": " help"
+        },
+        {
+            "loc": 3,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 2,
+            "cut_len": 1,
+            "token": "t"
+        },
+        {
+            "loc": 1,
+            "cut_len": 1,
+            "token": " "
+        },
+        {
+            "loc": 0,
+            "cut_len": 1,
+            "token": "\n"
+        },
+        {
+            "loc": 20,
+            "cut_len": 1,
+            "token": "\n"
+        },
+        {
+            "loc": 19,
+            "cut_len": 1,
+            "token": " need"
+        },
+        {
+            "loc": 14,
+            "cut_len": 5,
+            "token": " your"
+        },
+        {
+            "loc": 9,
+            "cut_len": 5,
+            "token": " meet"
+        },
+        {
+            "loc": 4,
+            "cut_len": 5,
+            "token": " help"
+        },
+        {
+            "loc": 3,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 2,
+            "cut_len": 1,
+            "token": "t"
+        },
+        {
+            "loc": 1,
+            "cut_len": 1,
+            "token": "\u2013"
+        },
+        {
+            "loc": 0,
+            "cut_len": 1,
+            "token": "\n"
+        },
+        {
+            "loc": 24,
+            "cut_len": 1,
+            "token": "."
+        },
+        {
+            "loc": 19,
+            "cut_len": 5,
+            "token": " needs"
+        },
+        {
+            "loc": 14,
+            "cut_len": 5,
+            "token": " your"
+        },
+        {
+            "loc": 9,
+            "cut_len": 5,
+            "token": " us"
+        },
+        {
+            "loc": 4,
+            "cut_len": 5,
+            "token": " give"
+        },
+        {
+            "loc": 3,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 2,
+            "cut_len": 1,
+            "token": "t"
+        },
+        {
+            "loc": 1,
+            "cut_len": 1,
+            "token": "\n"
+        },
+        {
+            "loc": 0,
+            "cut_len": 1,
+            "token": "\n"
+        },
+        {
+            "loc": 23,
+            "cut_len": 1,
+            "token": "."
+        },
+        {
+            "loc": 17,
+            "cut_len": 6,
+            "token": " comments"
+        },
+        {
+            "loc": 12,
+            "cut_len": 5,
+            "token": " your"
+        },
+        {
+            "loc": 9,
+            "cut_len": 3,
+            "token": " us"
+        },
+        {
+            "loc": 4,
+            "cut_len": 5,
+            "token": " offer"
+        },
+        {
+            "loc": 3,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 2,
+            "cut_len": 1,
+            "token": "t"
+        },
+        {
+            "loc": 1,
+            "cut_len": 1,
+            "token": "\n"
+        },
+        {
+            "loc": 0,
+            "cut_len": 1,
+            "token": "\n"
+        },
+        {
+            "loc": 27,
+            "cut_len": 1,
+            "token": "."
+        },
+        {
+            "loc": 18,
+            "cut_len": 9,
+            "token": " support"
+        },
+        {
+            "loc": 13,
+            "cut_len": 5,
+            "token": " and"
+        },
+        {
+            "loc": 10,
+            "cut_len": 3,
+            "token": " information"
+        },
+        {
+            "loc": 4,
+            "cut_len": 6,
+            "token": " discuss"
+        },
+        {
+            "loc": 3,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 2,
+            "cut_len": 1,
+            "token": "t"
+        },
+        {
+            "loc": 1,
+            "cut_len": 1,
+            "token": "\n"
+        },
+        {
+            "loc": 0,
+            "cut_len": 1,
+            "token": "\n"
+        },
+        {
+            "loc": 36,
+            "cut_len": 1,
+            "token": "."
+        },
+        {
+            "loc": 28,
+            "cut_len": 8,
+            "token": " research"
+        },
+        {
+            "loc": 24,
+            "cut_len": 4,
+            "token": " and"
+        },
+        {
+            "loc": 12,
+            "cut_len": 12,
+            "token": ","
+        },
+        {
+            "loc": 4,
+            "cut_len": 8,
+            "token": " do"
+        },
+        {
+            "loc": 3,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 2,
+            "cut_len": 1,
+            "token": "t"
+        },
+        {
+            "loc": 1,
+            "cut_len": 1,
+            "token": "\n"
+        },
+        {
+            "loc": 0,
+            "cut_len": 1,
+            "token": " I"
+        },
+        {
+            "loc": 22,
+            "cut_len": 1,
+            "token": ","
+        },
+        {
+            "loc": 13,
+            "cut_len": 9,
+            "token": " I"
+        },
+        {
+            "loc": 9,
+            "cut_len": 4,
+            "token": " and"
+        },
+        {
+            "loc": 8,
+            "cut_len": 1,
+            "token": ","
+        },
+        {
+            "loc": 5,
+            "cut_len": 3,
+            "token": " see"
+        },
+        {
+            "loc": 4,
+            "cut_len": 1,
+            "token": "o"
+        },
+        {
+            "loc": 3,
+            "cut_len": 1,
+            "token": "t"
+        },
+        {
+            "loc": 2,
+            "cut_len": 1,
+            "token": "\n"
+        },
+        {
+            "loc": 0,
+            "cut_len": 2,
+            "token": " her"
+        },
+        {
+            "loc": 18,
+            "cut_len": 1,
+            "token": " wanted"
+        },
+        {
+            "loc": 16,
+            "cut_len": 2,
+            "token": " I"
+        },
+        {
+            "loc": 12,
+            "cut_len": 4,
+            "token": " and"
         }
     ]
 }

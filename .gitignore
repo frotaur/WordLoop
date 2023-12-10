@@ -2,3 +2,6 @@ __pycache__
 .DS_Store
 it_mini_*
 generate.py
+json_history
+*.state
+*.rar
